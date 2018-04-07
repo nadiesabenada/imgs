@@ -1,11 +1,10 @@
 {
     "Wallpapers":[
         {
-            "name":"ShotA",
-            "author":"Someone",
+            "name":"",
+            "author":"",
             "url":"https://raw.githubusercontent.com/nadiesabenada/imgs/master/Jesus_Images10.jpg",
-            "collections":"featured,landscapes,people",
-            "downloadable":false
+            "downloadable":true
         },
         {
             "name":"ShotB",
